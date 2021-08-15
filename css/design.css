@@ -378,6 +378,7 @@ p {
     padding-top: 1%;
     direction: rtl;
     flex-wrap: wrap;
+    margin-top:0px;
 }
 .footer-link ul li{
     margin: 3% 1% 0% 1%;
